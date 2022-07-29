@@ -15,6 +15,6 @@ token
 mailpass_changed.txt
 ```
 mail:pass
-``
+```
 
 にする感じです。
