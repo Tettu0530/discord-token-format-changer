@@ -2,5 +2,19 @@
 
 DiscordのToken Formatを変えるスクリプト
 
-```py
 ```
+email:pass:token
+```
+となっているものを
+
+tokens_changed.txt
+```
+token
+```
+
+mailpass_changed.txt
+```
+mail:pass
+``
+
+にする感じです。
