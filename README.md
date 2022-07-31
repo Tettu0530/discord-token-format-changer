@@ -1,6 +1,7 @@
 # discord-token-format-changer
 
 DiscordのToken Formatを変えるスクリプト
+This is a script to change discord token format.
 
 ```
 email:pass:token
